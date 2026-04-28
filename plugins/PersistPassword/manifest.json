@@ -1,0 +1,5 @@
+{
+    "name": "PersistPassword",
+    "description": "Persist passwords by saving them.",
+    "main": "src/index.ts"
+}
